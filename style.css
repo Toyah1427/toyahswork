@@ -27,6 +27,21 @@ h2 {
     
 }
 
+.address {
+    font-size: 20px;
+    font-family: "mason-serif";
+    color: darkred;
+}
 
+.email {
+    font-size: 20px;
+    font-family: "mason-serif";
+    color: darkred;
+}
+
+.phone {
+    font-size: 20px;
+    font-family: "mason-serif";
+    color: darkred;
 }
 
